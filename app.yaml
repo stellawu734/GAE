@@ -1,9 +1,2 @@
-runtime:nodejs
-env:flex
-# [START handlers]
-handlers:
-- url: /static
- static_dir: static
-- url: /
- script: index.html
-# [END handlers]
+runtime: nodejs
+env: flex
