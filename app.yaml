@@ -1,5 +1,3 @@
 runtime:nodejs
 env:flex
-"scripts": {
-  "start": "npm start"
-}
+module: default
