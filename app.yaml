@@ -6,3 +6,4 @@ env: flex
 handlers:
 - url: /
   script: index.html
+vm: true
