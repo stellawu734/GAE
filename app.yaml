@@ -1,7 +1,3 @@
-application: myapp
-version: 1
 runtime: nodejs
-api_version: 1
+vm: true
 env: flex
-skip_files:
- - ^node_modules$
